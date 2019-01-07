@@ -1,0 +1,20 @@
+{
+  "name": "serverless-offline-global-exporter",
+  "version": "1.0.0",
+  "description": "Export all lambda functions to process.env",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msfidelis/serverless-offline-global-exporter.git"
+  },
+  "keywords": [],
+  "author": "Matheus Fidelis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msfidelis/serverless-offline-global-exporter/issues"
+  },
+  "homepage": "https://github.com/msfidelis/serverless-offline-global-exporter#readme"
+}
